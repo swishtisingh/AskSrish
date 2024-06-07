@@ -23,7 +23,7 @@ Follow these steps to set up the AskSrish movie recommender system on your local
 
 1. **Clone the Repository**:
     \`\`\`sh
-    git clone https://github.com/yourusername/AskSrish.git
+    git clone https://github.com/swishtisingh/AskSrish.git
     cd AskSrish
     \`\`\`
 
@@ -46,20 +46,14 @@ Follow these steps to set up the AskSrish movie recommender system on your local
 ## Technologies Used
 
 - **Python**: Core programming language for the application.
-- **Flask**: Web framework for building the application.
+- **NumPy**: Used to perform a wide variety of mathematical operations on arrays.
+- **Pandas**: Used to analyse and manipulate multi dimensional arrays.
+- **nltk**: Natural language processing library.
+- **Pickle**: Used in serializing and deserializing a Python object structure.
 - **Pandas**: Library for data manipulation and analysis.
-- **Scikit-learn**: Machine learning library used for implementing the recommendation algorithm.
+- **Scikit-learn**: Machine learning library used for classification, regression, clustering and dimensionality reduction.
+- **Streamlit**: used to build and share machine learning and data science web apps.
 - **HTML/CSS**: Technologies for frontend design and layout.
-
-## Contributing
-
-We welcome contributions to enhance the functionality of AskSrish. If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (\`git checkout -b feature-branch\`).
-3. Make your changes and commit them (\`git commit -m 'Add new feature'\`).
-4. Push to the branch (\`git push origin feature-branch\`).
-5. Open a Pull Request for review.
 
 ## License
 
